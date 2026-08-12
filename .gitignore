@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+output/
+tests/
+MedOCR/*.pdf
+MedOCR/*.csv
+MedOCR/*.ipynb
+MedOCR/frontend/
